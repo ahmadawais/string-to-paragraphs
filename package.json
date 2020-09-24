@@ -19,7 +19,7 @@
 		"ahmadawais"
 	],
 	"devDependencies": {
-		"prettier": "^2.0.2"
+		"prettier": "^2.1.2"
 	},
 	"scripts": {
 		"test": "node test.js",
